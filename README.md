@@ -1,6 +1,5 @@
 # card-game
 
-from math import fabs
 import random
 from types import prepare_class
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')
